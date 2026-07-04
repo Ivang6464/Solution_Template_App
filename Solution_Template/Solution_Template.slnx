@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SolutionTemplate/SolutionTemplate.csproj" Id="a51cfce9-242c-4ad9-9d83-d888dbfcfab5" />
+    <Project Path="src/Solution_Template.ApplicationLib/Solution_Template.ApplicationLib.csproj" />
+    <Project Path="src/Solution_Template.DomainLib/Solution_Template.DomainLib.csproj" />
+    <Project Path="src/Solution_Template.FacadeLib/Solution_Template.FacadeLib.csproj" />
+    <Project Path="src/Solution_Template.InfrastructureLib/Solution_Template.InfrastructureLib.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Solution_Template.ApplicationLib.Tests/Solution_Template.ApplicationLib.Tests.csproj" />
+    <Project Path="tests/Solution_Template.DomainLib.Tests/Solution_Template.DomainLib.Tests.csproj" />
+  </Folder>
+</Solution>
